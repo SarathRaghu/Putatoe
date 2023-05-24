@@ -1,0 +1,1073 @@
+.homepage{
+    position: absolute;
+    background-color:  rgb(217, 248, 248);
+    height: 300%;
+    width: 100%;
+}
+
+.homepage .header{
+    position: absolute;
+    background-color: rgb(2, 141, 154);
+    height: 7%;
+    width: 100%;
+}
+
+.homepage .header i{
+    position: absolute;
+    left: 20%;
+    top: 8%;
+    font-size: 160%;
+    color: white;
+}
+
+.homepage .header .location{
+    position: absolute;
+    height: 15%;
+    width: 50%;
+    left: 23%;
+    top: 7%;
+    border-radius: 10px;
+    background: transparent;
+    border: 2px solid white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.homepage .header .Locl{
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    left: 23.5%;
+    top: 9.5%;
+    cursor: pointer;
+}
+
+.homepage .header .noti i{
+    position: absolute;
+    left: 75%;
+    top: 7%;
+    font-size: 30px;
+    color: white;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.homepage .header .l1{
+    position: absolute;
+    top: 22%;
+    left: 10%;
+    font-size: 17px;
+    color: rgb(40, 39, 39);
+    cursor: pointer;
+}
+
+.homepage .header .cart i{
+    position: absolute;
+    left: 79%;
+    top: 7%;
+    font-size: 30px;
+    color: white;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.homepage .header .search i{
+    position: absolute;
+    left: 1%;
+    top: 15%;
+    font-size: 30px;
+    color: rgb(2, 141, 154);
+    cursor: pointer;
+}
+
+.homepage .header .search{
+    position: absolute;
+    height: 25%;
+    width: 50%;
+    left: 23%;
+    top: 50%;
+    border-radius: 5px;
+    background: white;
+    border: 2px solid white;
+    font-size: 15px;
+}
+
+.homepage .header .mic{
+    position: absolute;
+    left: 74%;
+    top: 54%;
+    font-size: 130%;
+    color: white;
+    cursor: pointer;
+}
+
+.homepage .advertisement{
+    position: absolute;
+    top: 7.5%;
+    height: 9%;
+    width: 98.6%;
+    border-radius: 10px;
+    left: 8px;
+}
+
+.homepage .advertisement img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0%;
+}
+
+.homepage .contents{
+    position: absolute;
+    background-color: white;
+    top: 17%;
+    height: 17%;
+    width: 98.6%;
+    border-radius: 10px;
+    left: 8px;
+}
+
+.homepage .contents .conn1 i{
+    position: absolute;
+    top: 5%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 140px;
+    cursor: pointer;
+}
+
+.homepage .contents .conn1 .l1{
+    position: absolute;
+    top: 15%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 7%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn1 .l2{
+    position: absolute;
+    top: 20%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 9%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn2 i{
+    position: absolute;
+    top: 5%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 35%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn2 label{
+    position: absolute;
+    top: 15%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 32%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn3 i{
+    position: absolute;
+    top: 5%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 59%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn3 label{
+    position: absolute;
+    top: 15%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 58.3%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn4 i{
+    position: absolute;
+    top: 5%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 83%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn4 label{
+    position: absolute;
+    top: 15%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 81%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn5 i{
+    position: absolute;
+    top: 35%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 140px;
+    cursor: pointer;
+}
+
+.homepage .contents .conn5 label{
+    position: absolute;
+    top: 45%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 135px;
+    cursor: pointer;
+}
+
+.homepage .contents .conn6 i{
+    position: absolute;
+    top: 35%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 35%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn6 label{
+    position: absolute;
+    top: 45%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 35%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn7 i{
+    position: absolute;
+    top: 35%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 59%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn7 label{
+    position: absolute;
+    top: 45%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 58.7%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn8 i{
+    position: absolute;
+    top: 35%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 83%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn8 .l1{
+    position: absolute;
+    top: 45%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 80.5%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn8 .l2{
+    position: absolute;
+    top: 50%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 81.4%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn9 i{
+    position: absolute;
+    top: 65%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 140px;
+    cursor: pointer;
+}
+
+.homepage .contents .conn9 label{
+    position: absolute;
+    top: 75%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 100px;
+    cursor: pointer;
+}
+
+.homepage .contents .conn10 i{
+    position: absolute;
+    top: 65%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 35%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn10 label{
+    position: absolute;
+    top: 75%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 32.3%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn11 i{
+    position: absolute;
+    top: 65%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 59%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn11 label{
+    position: absolute;
+    top: 75%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 57.5%;
+    cursor: pointer;
+}
+
+
+.homepage .contents .conn12 i{
+    position: absolute;
+    top: 65%;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 83%;
+    cursor: pointer;
+}
+
+.homepage .contents .conn12 label{
+    position: absolute;
+    top: 75%;
+    font-size: 20px;
+    color: rgb(2, 141, 154);
+    left: 81%;
+    cursor: pointer;
+}
+
+.homepage .menu{
+    position: fixed;
+    height: 11%;
+    top: 89%;
+    width: 100%;
+    background-color: white;
+    border-top: 1px solid rgb(241, 240, 240);
+}
+
+.homepage .menu .conn1 i{
+    position: absolute;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 7%;
+    top: 17%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn1 label{
+    position: absolute;
+    font-size: 25px;
+    color: rgb(2, 141, 154);
+    left: 6%;
+    top: 55%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn2 i{
+    position: absolute;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 27%;
+    top: 17%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn2 label{
+    position: absolute;
+    font-size: 25px;
+    color: rgb(2, 141, 154);
+    left: 26%;
+    top: 55%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn3 img{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    color: rgb(2, 141, 154);
+    left: 47%;
+    top: 17%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn4 i{
+    position: absolute;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 67%;
+    top: 17%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn4 label{
+    position: absolute;
+    font-size: 25px;
+    color: rgb(2, 141, 154);
+    left: 64.3%;
+    top: 55%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn5 i{
+    position: absolute;
+    font-size: 40px;
+    color: rgb(2, 141, 154);
+    left: 87%;
+    top: 17%;
+    cursor: pointer;
+}
+
+.homepage .menu .conn5 label{
+    position: absolute;
+    font-size: 25px;
+    color: rgb(2, 141, 154);
+    left: 86.5%;
+    top: 55%;
+    cursor: pointer;
+}
+
+.homepage .footer{
+    position:absolute;
+    background-color: rgb(217, 248, 248);
+    top: 34.5%;
+    height: 47%;
+    width: 98.6%;
+    border-radius: 10px;
+    left: 8px;
+}
+
+.homepage .footer .fi{
+    position: absolute;
+    top: 0.5%;
+    width: 100%;
+    height: 7%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.homepage .footer .fi h1{
+    position: absolute;
+    left: 1%;
+    color: rgb(2, 141, 154);
+    font-size: 30px;
+    top: -10%;
+}
+
+.homepage .footer .se{
+    position: absolute;
+    top: 8.5%;
+    width: 100%;
+    height: 20%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.homepage .footer .se h1{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    color: rgb(87, 89, 89);
+    font-size: 30px;
+}
+
+.homepage .footer .se .se1{
+    position: absolute;
+    top: 31%;
+    left: 22%;
+    border-bottom: solid 2px rgb(36, 35, 35);
+    width: 50%;
+}
+
+.homepage .footer .se img{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .thi{
+    position: absolute;
+    top: 29.3%;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(178, 235, 244);
+    border-radius: 1px;
+}
+
+.homepage .footer .thi h1{
+    position: absolute;
+    top: -30%;
+    left: 35%;
+    color: rgb(2, 141, 154);
+    font-size: 30px;
+}
+
+.homepage .footer .fo{
+    position: absolute;
+    top: 35%;
+    background-color: white;
+    height: 7%;
+    width: 100%;
+}
+
+.homepage .footer .fo h1{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    color: rgb(87, 89, 89);
+    font-size: 30px;
+}
+
+.homepage .footer .fo .fo1{
+    position: absolute;
+    top: 80%;
+    left: 22%;
+    border-bottom: solid 2px rgb(36, 35, 35);
+    width: 50%;
+}
+
+.homepage .footer .fo2{
+    position: absolute;
+    top: 41%;
+    background-color: white;
+    width: 100%;
+    height: 17%;
+    overflow-x: auto;
+}
+
+.homepage .footer .fo2 .f1{
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f1 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f2{
+    position: absolute;
+    top: 15%;
+    left: 16%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f2 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f3{
+    position: absolute;
+    top: 15%;
+    left: 31%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f3 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f4{
+    position: absolute;
+    top: 15%;
+    left: 46%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f4 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f5{
+    position: absolute;
+    top: 15%;
+    left: 61%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f5 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f6{
+    position: absolute;
+    top: 15%;
+    left: 76%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f6 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f7{
+    position: absolute;
+    top: 15%;
+    left: 91%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f7 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f8{
+    position: absolute;
+    top: 15%;
+    left: 106%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f8 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f9{
+    position: absolute;
+    top: 15%;
+    left: 121%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f9 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .fo2 .f10{
+    position: absolute;
+    top: 15%;
+    left: 136%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .fo2 .f10 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+
+.homepage .footer .fiv{
+    position: absolute;
+    top: 59.7%;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(178, 235, 244);
+    border-radius: 1px;
+}
+
+.homepage .footer .fiv h1{
+    position: absolute;
+    top: -30%;
+    left: 35%;
+    color: rgb(2, 141, 154);
+    font-size: 30px;
+}
+
+.homepage .footer .six{
+    position: absolute;
+    top: 65.4%;
+    background-color: white;
+    height: 7%;
+    width: 100%;
+}
+
+.homepage .footer .six h1{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    color: rgb(87, 89, 89);
+    font-size: 30px;
+}
+
+.homepage .footer .six .si1{
+    position: absolute;
+    top: 80%;
+    left: 22%;
+    border-bottom: solid 2px rgb(36, 35, 35);
+    width: 50%;
+}
+
+.homepage .footer .si2{
+    position: absolute;
+    top: 72.4%;
+    background-color: white;
+    width: 100%;
+    height: 17%;
+    overflow-x: auto;
+}
+
+.homepage .footer .si2 .f1{
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f1 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f2{
+    position: absolute;
+    top: 15%;
+    left: 16%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f2 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f3{
+    position: absolute;
+    top: 15%;
+    left: 31%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f3 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f4{
+    position: absolute;
+    top: 15%;
+    left: 46%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f4 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f5{
+    position: absolute;
+    top: 15%;
+    left: 61%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f5 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f6{
+    position: absolute;
+    top: 15%;
+    left: 76%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f6 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f7{
+    position: absolute;
+    top: 15%;
+    left: 91%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f7 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f8{
+    position: absolute;
+    top: 15%;
+    left: 106%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f8 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f9{
+    position: absolute;
+    top: 15%;
+    left: 121%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f9 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .si2 .f10{
+    position: absolute;
+    top: 15%;
+    left: 136%;
+    background-color: rgb(225, 222, 222);
+    height: 80%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+.homepage .footer .si2 .f10 img{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.homepage .footer .sev{
+    position: absolute;
+    top: 91.1%;
+    width: 100%;
+    height: 5%;
+    background-color: rgb(178, 235, 244);
+    border-radius: 1px;
+}
+
+.homepage .footer .sev h1{
+    position: absolute;
+    top: -30%;
+    left: 38%;
+    color: rgb(2, 141, 154);
+    font-size: 30px;
+}
+
+.homepage .footer .eig{
+    position: absolute;
+    top: 97%;
+    background-color: white;
+    height: 34%;
+    width: 100%;
+}
+
+.homepage .footer .eig .ei1{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-color: rgb(89, 86, 86);
+    height: 70%;
+    width: 20%;
+}
+
+.homepage .footer .eig .ei1 img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0%;
+    cursor: pointer;
+}
+
+.homepage .footer .eig .ei2{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: rgb(89, 86, 86);
+    height: 70%;
+    width: 20%;
+}
+
+.homepage .footer .eig .ei2 img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0%;
+    cursor: pointer;
+}
+
+.homepage .footer .eig .ei3{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    background-color: rgb(89, 86, 86);
+    height: 70%;
+    width: 20%;
+}
+
+.homepage .footer .eig .ei3 img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0%;
+    cursor: pointer;
+}
+
+.homepage .switch{
+    position: fixed;
+    top: 80%;
+    left: 90%;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(2, 141, 154);
+}
+
+.homepage .switch img{
+    position: fixed;
+    height: 40px;
+    width: 40px;
+    left: 90.7%;
+    top: 81%;
+}

@@ -1,0 +1,30 @@
+.Dish .header{
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(2, 141, 154);
+}
+
+.Dish .header h1{
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    color: white;
+}
+
+.Dish .header i{
+    position: absolute;
+    left: 1%;
+    top: 24%;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.Dish .Antenna img{
+    position: absolute;
+    top: 10%;
+    height: 40%;
+    width: 50%;
+    left: 0%;
+    cursor: pointer;
+}

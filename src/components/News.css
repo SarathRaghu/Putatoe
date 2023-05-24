@@ -1,0 +1,48 @@
+.News .header{
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(2, 141, 154);
+}
+
+.News .header h1{
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    color: white;
+}
+
+.News .header i{
+    position: absolute;
+    left: 1%;
+    top: 24%;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.News .write{
+    position:absolute;
+    top: 11%;
+    height: 10%;
+    width: 100%;
+}
+
+.News .write .l1{
+    position:absolute;
+    top: 10%;
+    left: 10%;
+    height: 30%;
+    width: 88%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    outline: none;
+    font-size: 16px;
+}
+
+.News .write i{
+    position:absolute;
+    top: 14%;
+    left: 7%;
+    font-size: 20px;
+}

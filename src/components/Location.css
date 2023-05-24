@@ -1,0 +1,78 @@
+.Location .header{
+    position: absolute;
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(2, 141, 154);
+}
+
+.Location .header h1{
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    color: white;
+    font-size: 30px;
+}
+
+.Location .header i{
+    position: absolute;
+    left: 2%;
+    top: 26%;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.Location .write{
+    position:absolute;
+    top: 11%;
+    height: 10%;
+    width: 100%;
+}
+
+.Location .write .l1{
+    position:absolute;
+    top: 10%;
+    left: 5%;
+    height: 35%;
+    width: 90%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 245, 237);
+}
+
+.Location .wr2{
+    position:absolute;
+    top: 18%;
+    height: 10%;
+    width: 100%;
+}
+
+.Location .wr2 input{
+    position:absolute;
+    top: 10%;
+    left: 5%;
+    height: 35%;
+    width: 90%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 245, 237);
+}
+
+.Location .wr2 .la1{
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    font-size: 20px;
+}
+
+.Location .wr2 .la1 i{
+    position: absolute;
+    left: -15%;
+    font-size: 20px;
+    top: 10%;
+    color: rgb(123, 123, 240);
+}
+
+

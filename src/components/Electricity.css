@@ -1,0 +1,40 @@
+.Electricity .header{
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(2, 141, 154);
+}
+
+.Electricity .header h1{
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    color: white;
+}
+
+.Electricity .header i{
+    position: absolute;
+    left: 1%;
+    top: 24%;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.Electricity .write{
+    position:absolute;
+    top: 11%;
+    height: 10%;
+    width: 100%;
+}
+
+.Electricity .write .l1{
+    position:absolute;
+    top: 10%;
+    left: 1%;
+    height: 35%;
+    width: 98%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 245, 237);
+}

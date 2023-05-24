@@ -1,0 +1,21 @@
+.Jobs .header{
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(2, 141, 154);
+}
+
+.Jobs .header h1{
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    color: white;
+}
+
+.Jobs .header i{
+    position: absolute;
+    left: 1%;
+    top: 24%;
+    color: aliceblue;
+    font-size: 50px;
+}
